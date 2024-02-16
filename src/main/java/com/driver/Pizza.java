@@ -17,6 +17,7 @@ public class Pizza {
 
     public void addExtraCheese(){
         // your code goes here
+        price+=80;
     }
 
     public void addExtraToppings(){
